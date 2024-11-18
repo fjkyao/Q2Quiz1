@@ -1,0 +1,27 @@
+body {
+	background-color: burlywood;
+}
+
+.container {
+	margin-top: 20px;
+	background-color: ivory;
+	color: darkolivegreen;
+}
+
+table {
+	background-color: beige;
+}
+
+tr:hover {
+    background-color: ivory;
+}
+
+td {
+	text-align: center;
+}
+
+img {
+	width: 50%;
+	height: 50%;
+	margin: 0 auto;
+}
